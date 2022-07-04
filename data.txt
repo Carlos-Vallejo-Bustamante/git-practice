@@ -1,3 +1,3 @@
-Name: Carlos
+Name: Carlos Vallejo
 Age: 38
-Favorite Color: blue
+Favorite Color: blue and red
